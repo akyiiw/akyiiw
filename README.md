@@ -17,6 +17,6 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akyiiw&layout=compact&theme=midnight-purple&locale=pt-br)
+![Top Langs]()
 
 #### (Eu faço códigos por pura diversão mesmo, porque se fosse habilidade eu já tinha desistido 😆)
