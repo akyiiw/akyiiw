@@ -1,7 +1,7 @@
 ### Hi, eu sou o Pietro! 😁
 <p>Você pode me encontrar nessas redes sociais:</p>
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1eetroo/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/virginia/)
 [![StackOvr](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25421684/pietro-borges)
 
 <p>Você também pode entrar no meu servidor do Discord! (Ou me adicionar: countzits)</p>
