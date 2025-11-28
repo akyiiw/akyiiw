@@ -1,4 +1,4 @@
-### Hi, eu sou o Pietro! 😁
+### Olá!
 <p>Você pode me encontrar nessas redes sociais:</p>
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1eetroo/)
@@ -19,4 +19,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akyiiw&layout=compact&theme=midnight-purple&locale=pt-br)
 
-#### (Eu faço códigos por pura diversão mesmo, porque se fosse habilidade eu já tinha desistido 😆)
